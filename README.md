@@ -14,6 +14,16 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+
+### :man_technologist: About Me :
+I am a developer from California!
+- :computer: I’m working as a Software Engineer and contributing to backend development as well as DevOps.
+
+- :seedling: I enjoy exploring and learning new technologies.
+
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-denver)
+
 <!--
 **jdenver23/jdenver23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
